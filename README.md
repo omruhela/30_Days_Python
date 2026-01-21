@@ -1,9 +1,6 @@
 # 30_Days_Python
-A 30-day Python learning challenge documenting daily practice, concepts, and mini projects.
-# 🐍 30 Days of Python Learning  
-### by Om Ruhela
-
-🚀 A self-learning challenge to master Python in 30 days  
+A 30-day Python learning challenge. 
+### by Om Ruhela  
 📅 Started on: 21/01/2026   
 
 ---
@@ -63,7 +60,7 @@ This repository documents my **30-day Python learning journey**, where I practic
 - Python 3.x  
 - VS Code  
 - Git & GitHub  
-- Practice Platforms (HackerRank, LeetCode)
+- Practice Platforms (HackerRank)
 
 ---
 
@@ -79,7 +76,7 @@ This repository documents my **30-day Python learning journey**, where I practic
 ---
 
 ## 🔗 Connect With Me
-- **GitHub:** https://github.com/your-username  
+- **GitHub:** https://github.com/omruhela  
 - **LinkedIn:** https://linkedin.com/in/your-profile  
 
 ---

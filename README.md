@@ -23,7 +23,7 @@ This repository documents my **30-day Python learning journey**, where I practic
 
 | Day | Topic Covered | Practice / Project | Status |
 |----|--------------|-------------------|--------|
-| Day 1 | Python Basics, Variables | Simple print programs | ⬜ |
+| Day 1 | Python Basics, Variables | Simple print programs | ✅ |
 | Day 2 | Data Types | Number & string operations | ⬜ |
 | Day 3 | Conditional Statements | If-else programs | ⬜ |
 | Day 4 | Loops | For & While loops | ⬜ |

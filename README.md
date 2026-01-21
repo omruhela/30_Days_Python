@@ -77,7 +77,7 @@ This repository documents my **30-day Python learning journey**, where I practic
 
 ## 🔗 Connect With Me
 - **GitHub:** https://github.com/omruhela  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
+- **LinkedIn:**(https://www.linkedin.com/in/om-ruhela-48895035b/) 
 
 ---
 

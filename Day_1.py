@@ -1,3 +1,4 @@
+# In my first day i learned the basic concept of the python
 # Here we understand about the variables in python...
 num=30 
 name="omruhela"
@@ -31,4 +32,5 @@ print(average)
 #Q5 = Write a program to find the square of a number and input taken by the user
 num=int(input("Enter the number : "))
 square=num**2
+
 print(square)

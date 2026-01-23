@@ -25,7 +25,7 @@ This repository documents my **30-day Python learning journey**, where I practic
 |----|--------------|-------------------|--------|
 | Day 1 | Python Basics, Variables | Simple print programs | ✅ |
 | Day 2 | Data Types | Number & string operations | ✅ |
-| Day 3 | Conditional Statements | If-else programs | ⬜ |
+| Day 3 | Conditional Statements | If-else programs | ✅ |
 | Day 4 | Loops | For & While loops | ⬜ |
 | Day 5 | Functions | User-defined functions | ⬜ |
 | Day 6 | Lists & Tuples | List operations | ⬜ |

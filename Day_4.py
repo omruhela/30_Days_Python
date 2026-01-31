@@ -77,19 +77,156 @@ for i in range(1,n+1):
 # * * * 
 # *   *   for n = 3 
 # * * * 
-n=int(input("enter the numeber : "))
-for i in range(1,n+1):
-    if(i==1 or i==n):
-        print("*"*n)
-    else:
-        print("*", end="")
-        print(" "*(n-2),end="")
-        print("*",end="")
-        print("")
+n = int(input("Enter size: "))
+
+for i in range(n):
+    for j in range(n):
+        if i == 0 or i == n-1 or j == 0 or j == n-1:
+            print("*", end=" ")
+        else:
+            print(" ", end=" ")
+    print()
 
 
 #Q10 - Write a program to print multiplication table of n using for loops in reversed 
 # order.
 n=int(input("enter the number you want the multiplication table of : "))
 for i in range(1,11):
+
     print(n," X ", 11-i, " = ", n*(11-i))
+'''
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+'''
+
+'''n=int(input("enter the value : "))
+for i in range(n):
+    for j in range(n):
+        print("*",end=" ")
+    print()'''
+
+
+'''
+*
+* *
+* * *
+* * * *
+* * * * *
+'''
+
+'''n=int(input("enter the value : "))
+for i in range(n):
+    for j in range(i+1):
+        print("*",end=" ")
+    print()'''
+
+
+'''
+* * * * *
+* * * *
+* * *
+* *
+*
+'''
+
+'''n=int(input("enter the value : "))
+for i in range(n):
+    for j in range(n-i):
+        print("*",end=" ")
+    print()'''
+
+
+'''
+        *
+      * * * 
+    * * * * * 
+  * * * * * * *
+* * * * * * * * *
+'''
+'''n=int(input("enter the value : "))
+for i in range(n):
+    for j in range(i,n-1):
+        print(" ",end=" ")
+    for j in range(i+1):
+        print("*",end=" ")
+    for j in range(i):
+        print("*",end=" ")
+    print()'''
+
+
+'''
+        * 
+      * * 
+    * * * 
+  * * * *
+* * * * * 
+'''
+
+'''n=int(input("enter the value : "))
+for i in range(n):
+    for j in range(n-i):
+        print(" ",end=" ")
+    for k in range(i+1):
+        print("*",end=" ")
+    print()'''
+
+
+'''
+* * * * * * *
+  * * * * *
+    * * *
+      * 
+'''
+
+'''n=int(input("enter the value : "))
+for i in range(n):
+    for j in range(i+1):
+        print(" ",end=" ")
+    for j in range(n-i):
+        print("*",end=" ")
+    for j in range(i,n-1):
+        print("*",end=" ")
+    print()'''
+
+
+'''
+ 1 
+ 2 2
+ 3 3 3
+ 4 4 4 4
+'''
+
+'''n=int(input("enter the value : "))
+for i in range(n):
+    for j in range(i):
+        print(i,end=" ")
+    print()'''
+
+
+'''
+1 
+1 2 
+1 2 3 
+1 2 3 4
+'''
+'''n=int(input("enter the value: "))
+for i in range(n):
+    for j in range(1, i + 1):
+        print(j, end=" ")
+    print()'''
+
+'''
+A 
+B B
+C C C
+D D D D
+'''
+
+'''n=int(input("enter the character : "))
+for i in range(n):
+    for j in range(i):
+        print(chr(64+i),end=" ")
+    print()'''
